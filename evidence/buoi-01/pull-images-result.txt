@@ -1,0 +1,58 @@
+
+==> Pulling registry:2
+failed to connect to the docker API at npipe:////./pipe/dockerDesktopLinuxEngine; check if the path is correct and if the daemon is running: open //./pipe/dockerDesktopLinuxEngine: The system cannot find the file specified.
+[WARN] Failed to pull registry:2
+
+==> Pulling python:3.11-slim
+failed to connect to the docker API at npipe:////./pipe/dockerDesktopLinuxEngine; check if the path is correct and if the daemon is running: open //./pipe/dockerDesktopLinuxEngine: The system cannot find the file specified.
+[WARN] Failed to pull python:3.11-slim
+
+==> Pulling node:20-alpine
+failed to connect to the docker API at npipe:////./pipe/dockerDesktopLinuxEngine; check if the path is correct and if the daemon is running: open //./pipe/dockerDesktopLinuxEngine: The system cannot find the file specified.
+[WARN] Failed to pull node:20-alpine
+
+==> Pulling postgres:15-alpine
+failed to connect to the docker API at npipe:////./pipe/dockerDesktopLinuxEngine; check if the path is correct and if the daemon is running: open //./pipe/dockerDesktopLinuxEngine: The system cannot find the file specified.
+[WARN] Failed to pull postgres:15-alpine
+
+==> Pulling rabbitmq:3-management
+failed to connect to the docker API at npipe:////./pipe/dockerDesktopLinuxEngine; check if the path is correct and if the daemon is running: open //./pipe/dockerDesktopLinuxEngine: The system cannot find the file specified.
+[WARN] Failed to pull rabbitmq:3-management
+
+==> Pulling eclipse-mosquitto:2
+failed to connect to the docker API at npipe:////./pipe/dockerDesktopLinuxEngine; check if the path is correct and if the daemon is running: open //./pipe/dockerDesktopLinuxEngine: The system cannot find the file specified.
+[WARN] Failed to pull eclipse-mosquitto:2
+
+==> Pulling nginx:alpine
+failed to connect to the docker API at npipe:////./pipe/dockerDesktopLinuxEngine; check if the path is correct and if the daemon is running: open //./pipe/dockerDesktopLinuxEngine: The system cannot find the file specified.
+[WARN] Failed to pull nginx:alpine
+
+==> Pulling traefik:v3.1
+failed to connect to the docker API at npipe:////./pipe/dockerDesktopLinuxEngine; check if the path is correct and if the daemon is running: open //./pipe/dockerDesktopLinuxEngine: The system cannot find the file specified.
+[WARN] Failed to pull traefik:v3.1
+
+==> Pulling prom/prometheus:v2.54.1
+failed to connect to the docker API at npipe:////./pipe/dockerDesktopLinuxEngine; check if the path is correct and if the daemon is running: open //./pipe/dockerDesktopLinuxEngine: The system cannot find the file specified.
+[WARN] Failed to pull prom/prometheus:v2.54.1
+
+==> Pulling grafana/grafana:11.2.0
+failed to connect to the docker API at npipe:////./pipe/dockerDesktopLinuxEngine; check if the path is correct and if the daemon is running: open //./pipe/dockerDesktopLinuxEngine: The system cannot find the file specified.
+[WARN] Failed to pull grafana/grafana:11.2.0
+
+==> Pulling redis:7-alpine
+failed to connect to the docker API at npipe:////./pipe/dockerDesktopLinuxEngine; check if the path is correct and if the daemon is running: open //./pipe/dockerDesktopLinuxEngine: The system cannot find the file specified.
+[WARN] Failed to pull redis:7-alpine
+
+==> Pulling swaggerapi/swagger-ui:v5.17.14
+failed to connect to the docker API at npipe:////./pipe/dockerDesktopLinuxEngine; check if the path is correct and if the daemon is running: open //./pipe/dockerDesktopLinuxEngine: The system cannot find the file specified.
+[WARN] Failed to pull swaggerapi/swagger-ui:v5.17.14
+
+==> Pulling hello-world:latest
+failed to connect to the docker API at npipe:////./pipe/dockerDesktopLinuxEngine; check if the path is correct and if the daemon is running: open //./pipe/dockerDesktopLinuxEngine: The system cannot find the file specified.
+[WARN] Failed to pull hello-world:latest
+
+==> Pulling ultralytics/ultralytics:latest-cpu
+failed to connect to the docker API at npipe:////./pipe/dockerDesktopLinuxEngine; check if the path is correct and if the daemon is running: open //./pipe/dockerDesktopLinuxEngine: The system cannot find the file specified.
+[WARN] Failed to pull ultralytics/ultralytics:latest-cpu
+
+==> Current images
