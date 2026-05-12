@@ -8,7 +8,7 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 - Mã sinh viên: 1771020177
 - Nhóm: nhom10
 - Vai trò dự kiến trong nhóm: AI Vision / Backend Developer
-- Hệ điều hành: Windows 11 Pro
+- Hệ điều hành: win11
 - Ghi chú:
 
 ## Các file minh chứng nên có
