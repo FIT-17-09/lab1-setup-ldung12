@@ -4,9 +4,9 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 
 ## Sinh viên điền thông tin
 
-- Họ tên: Lê Quang Dũng
-- Mã sinh viên: 1771020167
-- Nhóm: 10
+- Họ tên: le quang dung
+- Mã sinh viên: 1771020177
+- Nhóm: nhom10
 - Vai trò dự kiến trong nhóm: AI Vision / Backend Developer
 - Hệ điều hành: Windows 11 Pro
 - Ghi chú:
