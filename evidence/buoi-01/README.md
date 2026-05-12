@@ -4,11 +4,11 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 
 ## Sinh viên điền thông tin
 
-- Họ tên:
-- Mã sinh viên:
-- Nhóm:
-- Vai trò dự kiến trong nhóm:
-- Hệ điều hành:
+- Họ tên: Lê Quang Dũng
+- Mã sinh viên: 1771020167
+- Nhóm: 10
+- Vai trò dự kiến trong nhóm: AI Vision / Backend Developer
+- Hệ điều hành: Windows 11 Pro
 - Ghi chú:
 
 ## Các file minh chứng nên có
